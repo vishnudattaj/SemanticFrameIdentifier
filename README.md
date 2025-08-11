@@ -1,4 +1,4 @@
-# 📄 Financial Frame Extractor
+# 📄 Semantic Frame Identifier
 
 A Python/NLTK-based Natural Language Processing (NLP) tool for extracting semantic frames from text related to finance, commerce, and business.
 
